@@ -21,13 +21,7 @@ bash
 Copy
 Edit
 pip install gymnasium[box2d] pygame numpy
-(Optional) Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/lunar-lander-agent.git
-cd lunar-lander-agent
 🏋️‍♂️ Training the Agent
 To train the agent using PSO:
 
